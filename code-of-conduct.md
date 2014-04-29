@@ -9,7 +9,7 @@ PHP community in the Seattle, WA, and Puget Sound area.
 
 SeaPHP UG desires to be inclusive to the largest number of contributors as
 possible. As such, we are committed to providing a friendly, safe, and welcoming
-environment for all, regardless of education, experience, age, ability, gender,
+environment for all, regardless of their professional or personal background including education, experience, age, ability, gender,
 sexual orientation, ethnicity, socioeconomic status, disability, physical
 appearance, or religion. We invite all those who participate in SeaPHP UG to
 help us in creating such an environment.
@@ -41,6 +41,9 @@ deliberate intimidation, stalking or following; harassing photography or
 recording; sustained disruption of talks or other events; inappropriate physical
 contact; and unwelcome sexual attention.
 
+Our expectation is that we will treat each other, and others our community interacts with, with consideration, empathy, and respect.
+Our speech and behavior will be guided by a desire to create and maintain an inclusive community purposed towards sharing knowledge and encouraging enthusiasm for solving problems with php.
+
 ## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those
@@ -51,6 +54,8 @@ a community member engages in unacceptable behavior, the community organizers
 may take any action they deem appropriate, up to and including a temporary ban
 or permanent expulsion from the community without warning (and without refund in
 the case of a paid event).
+
+It is every community member's responsibility to notice and attempt to intervene or notify others if unacceptable behaviors are occurring at a meeting or event.
 
 ## Mailing List Etiquette
 
