@@ -17,7 +17,7 @@ help us in creating such an environment.
 This Code of Conduct (CoC) outlines the expectations of all who participate in
 our group, as well how we should respond to unacceptable behavior. We expect
 participants will abide by this CoC in all community venues—whether online or
-in—person—as well as in one-on-one communications as they pertain to group
+in-person—as well as in one-on-one communications as they pertain to group
 business.
 
 ## Expectations
@@ -31,10 +31,8 @@ You are expected to:
 
 Unacceptable behaviors include: intimidating, harassing, abusive,
 discriminatory, derogatory, or demeaning speech or actions by any participant in
-our community online, at all related events and in one-on-one communications
-carried out in the context of community business. Community event venues may be
-shared with members of the public; please be respectful to all patrons of these
-locations.
+our group. Community event venues may be shared with members of the public;
+please be respectful to all patrons of these locations.
 
 Harassment includes: harmful or prejudicial verbal or written comments related
 to gender, sexual orientation, race, religion, disability; inappropriate use of
@@ -81,8 +79,9 @@ guidelines as they pertain to the mailing list.
 
 If you are subject to or witness unacceptable behavior, or have any other
 concerns, please notify a community organizer as soon as possible. You can
-contact the organizers at admins@seaphp.com, send a direct message to @seaphp on
-twitter, or speak to an organizer in person at an event.
+contact the organizers at admins@seaphp.com, send a direct message to
+[@seaphp](https://twitter.com/seaphp) on twitter, or speak to an organizer
+in person at an event.
 
 The current organizers are:
 
