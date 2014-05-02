@@ -5,7 +5,7 @@
 The Seattle PHP User Group (SeaPHP UG) is a volunteer-run [PHP](http://php.net/)
 user group, and invites anyone with a desire to talk and learn about PHP and
 related technologies to gather together, share their knowledge, and promote the
-PHP community in the Seattle, WA, and Puget Sound area.
+PHP community in the Seattle, WA and Puget Sound area.
 
 SeaPHP UG desires to be inclusive to the largest number of contributors as
 possible. As such, we are committed to providing a friendly, safe, and welcoming
@@ -16,7 +16,7 @@ We invite all those who participate in SeaPHP UG to help us in creating such an
 environment.
 
 This Code of Conduct (CoC) outlines the expectations of all who participate in
-our group, as well how we should respond to unacceptable behavior. We expect
+our group, as well as how we should respond to unacceptable behavior. We expect
 participants will abide by this CoC in all community venues—whether online or
 in-person—as well as in one-on-one communications as they pertain to group
 business.
