@@ -41,7 +41,7 @@ nudity and/or sexual images in public spaces (including presentation slides);
 deliberate intimidation, stalking or following; harassing photography or
 recording; sustained disruption of talks or other events; inappropriate physical
 contact; and unwelcome sexual attention. In addition, religious evangelism and 
-discussion of related topics, as well as relate distribution of religious 
+discussion of related topics, as well as related distribution of religious 
 literature of any nature is unwelcome.
 
 Our expectation is that we will treat each other, and others our community
