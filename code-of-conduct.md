@@ -71,11 +71,12 @@ in person at an event.
 
 The current organizers are:
 
-* Ian Maddox ([@isNoOp](https://twitter.com/isNoOp))
-* Jeremy Lindblom ([@jeremeamia](https://twitter.com/jeremeamia))
-* Joel Simpson ([@JoelRSimpson](https://twitter.com/JoelRSimpson))
 * Tessa Mero ([@TessaMero](https://twitter.com/TessaMero))
-* Dan Munro ([@danielmunro](https://twitter.com/danielmunro))
+* Andrew Woods ([@awoods](https://twitter.com/awoods))
+* Ian Maddox ([@IanAMaddox](https://twitter.com/IanAMaddox))
+* Cory Fowler ([@cfowlerMSFT](https://twitter.com/cfowlerMSFT))
+* Isaac Leinweber ([@isaacleinweber](https://twitter.com/isaacleinweber))
+* Jeremy Lindblom ([@jeremeamia](https://twitter.com/jeremeamia))
 
 If you have a complaint that involves an organizer, you can contact one of the
 others in confidence. The group is the priority, and steps will be taken to
